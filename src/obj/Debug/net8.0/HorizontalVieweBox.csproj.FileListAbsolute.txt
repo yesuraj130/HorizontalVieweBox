@@ -1,0 +1,5 @@
+/workspaces/HorizontalVieweBox/src/obj/Debug/net8.0/HorizontalVieweBox.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HorizontalVieweBox/src/obj/Debug/net8.0/HorizontalVieweBox.AssemblyInfoInputs.cache
+/workspaces/HorizontalVieweBox/src/obj/Debug/net8.0/HorizontalVieweBox.AssemblyInfo.cs
+/workspaces/HorizontalVieweBox/src/obj/Debug/net8.0/HorizontalVieweBox.csproj.CoreCompileInputs.cache
+/workspaces/HorizontalVieweBox/src/obj/Debug/net8.0/HorizontalVieweBox.sourcelink.json

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LayoutTester/1.0.0": {
+        "dependencies": {
+          "HorizontalVieweBox": "1.0.0"
+        },
+        "runtime": {
+          "LayoutTester.dll": {}
+        }
+      },
+      "HorizontalVieweBox/1.0.0": {
+        "runtime": {
+          "HorizontalVieweBox.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LayoutTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HorizontalVieweBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

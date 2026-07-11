@@ -1,0 +1,15 @@
+/workspaces/HorizontalVieweBox/tools/LayoutTester/bin/Debug/net10.0/LayoutTester
+/workspaces/HorizontalVieweBox/tools/LayoutTester/bin/Debug/net10.0/LayoutTester.deps.json
+/workspaces/HorizontalVieweBox/tools/LayoutTester/bin/Debug/net10.0/LayoutTester.runtimeconfig.json
+/workspaces/HorizontalVieweBox/tools/LayoutTester/bin/Debug/net10.0/LayoutTester.dll
+/workspaces/HorizontalVieweBox/tools/LayoutTester/bin/Debug/net10.0/LayoutTester.pdb
+/workspaces/HorizontalVieweBox/tools/LayoutTester/obj/Debug/net10.0/LayoutTester.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HorizontalVieweBox/tools/LayoutTester/obj/Debug/net10.0/LayoutTester.AssemblyInfoInputs.cache
+/workspaces/HorizontalVieweBox/tools/LayoutTester/obj/Debug/net10.0/LayoutTester.AssemblyInfo.cs
+/workspaces/HorizontalVieweBox/tools/LayoutTester/obj/Debug/net10.0/LayoutTester.csproj.CoreCompileInputs.cache
+/workspaces/HorizontalVieweBox/tools/LayoutTester/obj/Debug/net10.0/LayoutTester.sourcelink.json
+/workspaces/HorizontalVieweBox/tools/LayoutTester/obj/Debug/net10.0/LayoutTester.dll
+/workspaces/HorizontalVieweBox/tools/LayoutTester/obj/Debug/net10.0/refint/LayoutTester.dll
+/workspaces/HorizontalVieweBox/tools/LayoutTester/obj/Debug/net10.0/LayoutTester.pdb
+/workspaces/HorizontalVieweBox/tools/LayoutTester/obj/Debug/net10.0/LayoutTester.genruntimeconfig.cache
+/workspaces/HorizontalVieweBox/tools/LayoutTester/obj/Debug/net10.0/ref/LayoutTester.dll

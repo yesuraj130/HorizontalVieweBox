@@ -1,0 +1,12 @@
+/workspaces/HorizontalVieweBox/src/bin/Debug/net10.0-windows/HorizontalVieweBox.deps.json
+/workspaces/HorizontalVieweBox/src/bin/Debug/net10.0-windows/HorizontalVieweBox.dll
+/workspaces/HorizontalVieweBox/src/bin/Debug/net10.0-windows/HorizontalVieweBox.pdb
+/workspaces/HorizontalVieweBox/src/obj/Debug/net10.0-windows/HorizontalVieweBox.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HorizontalVieweBox/src/obj/Debug/net10.0-windows/HorizontalVieweBox.AssemblyInfoInputs.cache
+/workspaces/HorizontalVieweBox/src/obj/Debug/net10.0-windows/HorizontalVieweBox.AssemblyInfo.cs
+/workspaces/HorizontalVieweBox/src/obj/Debug/net10.0-windows/HorizontalVieweBox.csproj.CoreCompileInputs.cache
+/workspaces/HorizontalVieweBox/src/obj/Debug/net10.0-windows/HorizontalVieweBox.sourcelink.json
+/workspaces/HorizontalVieweBox/src/obj/Debug/net10.0-windows/HorizontalVieweBox.dll
+/workspaces/HorizontalVieweBox/src/obj/Debug/net10.0-windows/refint/HorizontalVieweBox.dll
+/workspaces/HorizontalVieweBox/src/obj/Debug/net10.0-windows/HorizontalVieweBox.pdb
+/workspaces/HorizontalVieweBox/src/obj/Debug/net10.0-windows/ref/HorizontalVieweBox.dll

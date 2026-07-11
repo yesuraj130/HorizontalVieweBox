@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VjTrobLFhFM=",
+  "success": true,
+  "projectFilePath": "/workspaces/HorizontalVieweBox/src/HorizontalVieweBox.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.4/microsoft.windowsdesktop.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
