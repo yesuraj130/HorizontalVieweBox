@@ -9,7 +9,8 @@ namespace HorizontalVieweBox
     {
         Horizontal,
         Vertical,
-        Both
+        Both,
+        Test,
     }
 
     /// <summary>
