@@ -3,6 +3,8 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 
+//Test 1
+
 namespace HorizontalVieweBox
 {
     public enum FitOrientation
